@@ -148,3 +148,5 @@ Brielle Alexis Christabel
 🪶 License
 
 This project is open-source and available under the MIT License.
+<img width="1621" height="1190" alt="sentiment_chart" src="https://github.com/user-attachments/assets/436541ed-9df5-4bc2-801d-f07f4bad6015" />
+
